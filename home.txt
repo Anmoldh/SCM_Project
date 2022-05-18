@@ -1,0 +1,3 @@
+Hello!
+you are on master branch.
+use 'git checkout' to change branch.
