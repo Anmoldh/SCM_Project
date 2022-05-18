@@ -1,0 +1,3 @@
+Hello!
+you are in activity1.
+use 'git checkout' to change branch.
