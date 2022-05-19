@@ -1,3 +1,3 @@
 Hello!
-you are on master branch.
+you are on master branch which is merged with activity1.
 use 'git checkout' to change branch.
